@@ -1,0 +1,14 @@
+{
+  "name": "typescript-2025549-jax",
+  "version": "1.0.0",
+  "description": "Módulo de Persistencia con JSON y fs/promises - Kinal",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/app.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.0.0"
+  }
+}
